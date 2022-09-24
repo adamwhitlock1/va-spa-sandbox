@@ -3,7 +3,7 @@
 import React from "react";
 import "@department-of-veterans-affairs/formation/dist/formation.min.css";
 
-import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import { render } from "react-dom";
 import HomePage from "./pages/HomePage";
